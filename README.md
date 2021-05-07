@@ -45,7 +45,7 @@ Go to Start → Command Prompt. This launches the Windows command prompt. To lau
     - `SPARK_HOME="/mnt/d/Ubuntu/Programs/spark-3.1.1-bin-hadoop3.2"`
     - Press `esc` key to get out of edit mode.
     - Enter `:wq` and press enter . This will save and close the file.
-    - `source ~/.bashrc` will load your recent changes into your current shel
+    - `source ~/.bashrc` will load your recent changes into your current shell
 
 4. Install pip3
    
