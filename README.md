@@ -46,3 +46,23 @@ Go to Start → Command Prompt. This launches the Windows command prompt. To lau
     - Press `esc` key to get out of edit mode.
     - Enter `:wq` and press enter . This will save and close the file.
     - `source ~/.bashrc` will load your recent changes into your current shel
+
+4. Install pip3
+   
+    ```cmd
+    sudo apt update
+    sudo apt install python3-pip
+    ```
+
+5. Install PySpark
+
+    ```cmd
+    pip3 install pyspark
+    pip3 install ipyparallel
+    ```
+    
+6. Run jupyter notebook
+
+    ```cmd
+    jupyter notebook --no-browser
+    ```
